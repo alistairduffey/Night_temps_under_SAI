@@ -8,7 +8,7 @@ Next steps:
 * quantify residual tmin change, and its statistical significance
 * make maps showing regions of change - we might expect the largest signal in dry, hot (and high altitude?) places (e.g. the tibetan plateau) which have the largest diurnal temperature range. 
 * Add GLENS data or more GeoMIP models 
-* Cloud cover change is likely to dominate any signal from the direct SAI SW forcing. So, any fuller treatment would need to account for this. Perhaps as a first step, look at the regional cloud covver changes under SAI and test how strongly they correlate to the local tmin variation. Also could potentially look at the tin residual changes in only those regions that see small changees in cloud cover. 
+* Cloud cover change is likely to dominate any signal from the direct SAI SW forcing. So, any fuller treatment would need to account for this. Perhaps as a first step, look at the regional cloud cover changes under SAI and test how strongly they correlate to the local tmin variation. Also could potentially look at the tmin residual changes in only those regions that see small changees in cloud cover. 
 
 Before doing this though, it would be worth chatting to others about how interesting this is, and in particular, drawing up the theory for what order of magnitude efffect size we expect given the SW forcing in these scenarios. How large an ensemble/long a simulation do we expect to need given a ball-park order of magnitude estimate of the effect size? 
 
