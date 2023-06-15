@@ -18,6 +18,7 @@ The figures below are annual means daily tmin and tmax fiels, spatially averaged
 Next steps: 
 
 
+* use a single column model (or zero-D EBM?) with hourly resolution to estimate the order of magnitude expected effect size for any suppression of DTR under SAI
 * quantify residual tmin change, and its statistical significance
 * make maps showing regions of change - we might expect the largest signal in dry, hot (and high altitude?) places (e.g. the tibetan plateau) which have the largest diurnal temperature range. 
 * Add GLENS data or more GeoMIP models 
