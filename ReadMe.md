@@ -26,6 +26,14 @@ Next steps:
 
 Before doing this though, it would be worth chatting to others about how interesting this is, and in particular, drawing up the theory for what order of magnitude efffect size we expect given the SW forcing in these scenarios. How large an ensemble/long a simulation do we expect to need given a ball-park order of magnitude estimate of the effect size? 
 
+
+It seems there may be a small signal for under-restoration of tmin in G1, but would need to investigate the statistics of change further, and look spacially to be sure. G6sulfur is difficult to interpret because there is a background tropical overcooling, which needs to be accounted for, and isn't accounted for in these plots. 
+
+N.B Code will only run Jasmin, since it refers to the CEDA file system.  
+
+![summary_DTR_under_SAI](https://github.com/alistairduffey/Night_temps_under_SAI/assets/47328986/3f2d3f7f-8c7d-4450-ab27-88bf37196e53)
+
+
 ![image](https://github.com/alistairduffey/Night_temps_under_SAI/assets/47328986/c631d073-b9e6-42a7-aa21-6e3ac68f9ece)
 
 ![image](https://github.com/alistairduffey/Night_temps_under_SAI/assets/47328986/7554d61c-ce68-406e-a519-d5c2aed62347)
@@ -35,6 +43,3 @@ Before doing this though, it would be worth chatting to others about how interes
 
 ![image](https://github.com/alistairduffey/Night_temps_under_SAI/assets/47328986/fa1bfc49-927d-49ab-858f-356d33cf0a50)
 
-It seems there may be a small signal for under-restoration of tmin in G1, but would need to investigate the statistics of change further, and look spacially to be sure. G6sulfur is difficult to interpret because there is a background tropical overcooling, which needs to be accounted for, and isn't accounted for in these plots. 
-
-N.B Code will only run Jasmin, since it refers to the CEDA file system.  
