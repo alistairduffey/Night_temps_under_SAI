@@ -26,6 +26,11 @@ Next steps:
 
 Before doing this though, it would be worth chatting to others about how interesting this is, and in particular, drawing up the theory for what order of magnitude efffect size we expect given the SW forcing in these scenarios. How large an ensemble/long a simulation do we expect to need given a ball-park order of magnitude estimate of the effect size? 
 
+![image](https://github.com/alistairduffey/Night_temps_under_SAI/assets/47328986/c631d073-b9e6-42a7-aa21-6e3ac68f9ece)
+
+![image](https://github.com/alistairduffey/Night_temps_under_SAI/assets/47328986/7554d61c-ce68-406e-a519-d5c2aed62347)
+
+
 ![image](https://github.com/alistairduffey/Night_temps_under_SAI/assets/47328986/da8eca37-211c-4dc8-9efb-36197a7bffc8)
 
 ![image](https://github.com/alistairduffey/Night_temps_under_SAI/assets/47328986/fa1bfc49-927d-49ab-858f-356d33cf0a50)
