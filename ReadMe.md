@@ -18,8 +18,8 @@ The figures below are annual means daily tmin and tmax fiels, spatially averaged
 Next steps: 
 
 
-* use a single column model (or zero-D EBM?) with hourly resolution to estimate the order of magnitude expected effect size for any suppression of DTR under SAI
-* quantify residual tmin change, and its statistical significance
+* use a single column model (or zero-D EBM?) with hourly resolution to estimate the order of magnitude expected effect size for any suppression of DTR under SAI. Gerrit Lohmann has a paper on the importance of heat capacity in EBMs which could be relevant for a dirunal cycle resolving EBM https://esd.copernicus.org/articles/11/1195/2020/#section5
+* quantify residual tmin change, and its statistical significance. 
 * make maps showing regions of change - we might expect the largest signal in dry, hot (and high altitude?) places (e.g. the tibetan plateau) which have the largest diurnal temperature range. 
 * Add GLENS data or more GeoMIP models 
 * Cloud cover change is likely to dominate any signal from the direct SAI SW forcing. So, any fuller treatment would need to account for this. Perhaps as a first step, look at the regional cloud cover changes under SAI and test how strongly they correlate to the local tmin variation. Also could potentially look at the tmin residual changes in only those regions that see small changees in cloud cover. 
