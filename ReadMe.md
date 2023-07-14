@@ -33,7 +33,12 @@ It seems there may be a small signal for under-restoration of tmin in G1, but wo
 
 N.B Code will only run Jasmin, since it refers to the CEDA file system.  
 
+
 ![summary_DTR_under_SAI](https://github.com/alistairduffey/Night_temps_under_SAI/assets/47328986/3f2d3f7f-8c7d-4450-ab27-88bf37196e53)
 
-<img width="707" alt="image" src="https://github.com/alistairduffey/Night_temps_under_SAI/assets/47328986/260cec2f-3a64-4873-a638-2de9d522ceb7">
+
+
+Or the same thing with a 20 year rolling mean applied: 
+![summary_DTR_under_SAI (1)](https://github.com/alistairduffey/Night_temps_under_SAI/assets/47328986/b83d7676-5f5b-43ac-b8a1-406fbd31ffdb)
+
 
