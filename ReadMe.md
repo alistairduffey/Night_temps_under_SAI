@@ -35,3 +35,5 @@ N.B Code will only run Jasmin, since it refers to the CEDA file system.
 
 ![summary_DTR_under_SAI](https://github.com/alistairduffey/Night_temps_under_SAI/assets/47328986/3f2d3f7f-8c7d-4450-ab27-88bf37196e53)
 
+<img width="707" alt="image" src="https://github.com/alistairduffey/Night_temps_under_SAI/assets/47328986/260cec2f-3a64-4873-a638-2de9d522ceb7">
+
